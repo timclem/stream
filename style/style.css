@@ -2,6 +2,10 @@ ul {
 list-style-type: none;
 }
 
+body {
+background: Black:
+}
+
 #icons_nav {
 border-radius: 50%;
 }
@@ -12,6 +16,7 @@ border-radius: 50%;
   top: 50%;
   width: 8em;
   margin-top: -2.5em;
+  background: white:
 }
 
 #bar_lateral_2 {
@@ -20,4 +25,5 @@ border-radius: 50%;
   top: 50%;
   width: 8em;
   margin-top: -2.5em;
+  background-color: white:
 }
