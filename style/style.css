@@ -3,27 +3,40 @@ list-style-type: none;
 }
 
 body {
-background: Black:
+background: black;
 }
 
 #icons_nav {
-border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  flex-wrap: wrap;
 }
 
 #bar_lateral_1 {
   position: fixed;
+  height: 100%;
   left: : 0;
-  top: 50%;
+  top: 5%;
   width: 8em;
   margin-top: -2.5em;
-  background: white:
+  background-color:grey;
+  opacity: 0.5;
+  color: white;
 }
 
 #bar_lateral_2 {
   position: fixed;
+  height: 100%;
+  top: 5%;
   right: 0;
-  top: 50%;
   width: 8em;
   margin-top: -2.5em;
-  background-color: white:
+  background-color:grey;
+  opacity: 0.5;
+  color: white;
 }
